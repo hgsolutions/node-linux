@@ -21,7 +21,7 @@
     "linux"
   ],
   "dependencies": {
-    "optimist": "~0.6.1",
+    "minimist": "~1.2.8",
     "mu2": "~0.5.20"
   },
   "readmeFilename": "README.md",
