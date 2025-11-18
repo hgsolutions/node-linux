@@ -1,6 +1,6 @@
 {
   "name": "node-linux",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Support daemon creation and management on Linux.",
   "keywords": [
     "ngn",
@@ -21,7 +21,7 @@
     "linux"
   ],
   "dependencies": {
-    "optimist": "~0.6.1",
+    "optimist": "^0.5.2",
     "mu2": "~0.5.20"
   },
   "readmeFilename": "README.md",
